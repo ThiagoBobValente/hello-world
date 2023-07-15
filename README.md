@@ -6,6 +6,7 @@ Teste com sintaxe do Markdown, como **bold**, *italicized text*,
 >1. Permite controlar o básico da ferramente mais utilizada para deselvimento de qualquer código.
 >2. Te inclui em uma comunidade global que irá elevar seus conhecimentos.
 >3. Permite criar um mostruário de todas as suas habilidades neste incrível mundo.
+
 Sobre o amigo Thiago, no caso, eu, poderia dizer que sou:
 - Jornalista
 - Funça (sem orgulho)
